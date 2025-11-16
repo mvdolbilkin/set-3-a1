@@ -76,7 +76,7 @@ int main() {
     }
 
     results_file.close();
-    std::cout << "Эксперимент завершен. Данные сохранены в файл results.csv" << std::endl;
+    std::cout << "Данные сохранены в файл results.csv" << std::endl;
 
     return 0;
 }
